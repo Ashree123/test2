@@ -8,3 +8,4 @@ create repository online on git hub
 git remote add origin https://github.com/aditi2523/fiename.git
 git push origin master
 
+git clone https://github.com/aditi2523/filename.git
